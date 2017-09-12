@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.0e54b663.css",
-  "main.css.map": "static/css/main.0e54b663.css.map",
-  "main.js": "static/js/main.29237916.js",
-  "main.js.map": "static/js/main.29237916.js.map",
+  "main.css": "static/css/main.4a25ac7f.css",
+  "main.css.map": "static/css/main.4a25ac7f.css.map",
+  "main.js": "static/js/main.004b9904.js",
+  "main.js.map": "static/js/main.004b9904.js.map",
   "static/media/Collage1.jpg": "static/media/Collage1.5bb042a7.jpg",
   "static/media/Collage10.jpg": "static/media/Collage10.4b44c1da.jpg",
   "static/media/Collage2.jpg": "static/media/Collage2.70f3939b.jpg",
@@ -21,6 +21,7 @@
   "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
   "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
   "static/media/laptop-black.png": "static/media/laptop-black.480f1982.png",
+  "static/media/mock_etsy.png": "static/media/mock_etsy.2482169d.png",
   "static/media/musicbox.png": "static/media/musicbox.e265e03a.png",
   "static/media/snippets.png": "static/media/snippets.7db3f6e6.png",
   "static/media/webpage-home2.png": "static/media/webpage-home2.b2e32a88.png"

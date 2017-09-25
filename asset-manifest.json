@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.1c57623e.css",
-  "main.css.map": "static/css/main.1c57623e.css.map",
-  "main.js": "static/js/main.004b9904.js",
-  "main.js.map": "static/js/main.004b9904.js.map",
+  "main.css": "static/css/main.3d6af09d.css",
+  "main.css.map": "static/css/main.3d6af09d.css.map",
+  "main.js": "static/js/main.62f9f2ac.js",
+  "main.js.map": "static/js/main.62f9f2ac.js.map",
   "static/media/Collage1.jpg": "static/media/Collage1.5bb042a7.jpg",
   "static/media/Collage10.jpg": "static/media/Collage10.4b44c1da.jpg",
   "static/media/Collage2.jpg": "static/media/Collage2.70f3939b.jpg",
@@ -13,6 +13,7 @@
   "static/media/Collage7.jpg": "static/media/Collage7.c47caf7e.jpg",
   "static/media/Collage8.jpg": "static/media/Collage8.affdeb7e.jpg",
   "static/media/Collage9.jpg": "static/media/Collage9.166ff3de.jpg",
+  "static/media/eCommerce.png": "static/media/eCommerce.8cf3b5e5.png",
   "static/media/frame-shape-vert.png": "static/media/frame-shape-vert.037697c6.png",
   "static/media/frame-shape.png": "static/media/frame-shape.ea1b205b.png",
   "static/media/glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
@@ -24,5 +25,5 @@
   "static/media/mock_etsy.png": "static/media/mock_etsy.2482169d.png",
   "static/media/musicbox.png": "static/media/musicbox.e265e03a.png",
   "static/media/snippets.png": "static/media/snippets.7db3f6e6.png",
-  "static/media/webpage-home2.png": "static/media/webpage-home2.b2e32a88.png"
+  "static/media/webpage-home2.png": "static/media/webpage-home2.ca3ff2cb.png"
 }
